@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:19:54.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gV3p_WonoaQ_ThswHiN3" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:29:51.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lyJ3PfKkekYscrCJUVso" version="16.6.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1148" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -384,6 +384,12 @@
         <mxCell id="r8p-rTUP_P2dbKx-3tGq-145" value="Lobby 1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="839" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r8p-rTUP_P2dbKx-3tGq-163" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#000000;" edge="1" parent="1" source="r8p-rTUP_P2dbKx-3tGq-147" target="r8p-rTUP_P2dbKx-3tGq-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p-rTUP_P2dbKx-3tGq-165" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#000000;" edge="1" parent="1" source="r8p-rTUP_P2dbKx-3tGq-147" target="r8p-rTUP_P2dbKx-3tGq-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r8p-rTUP_P2dbKx-3tGq-147" value="Lobby 2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="839" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -403,10 +409,16 @@
           <mxGeometry x="1140" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8p-rTUP_P2dbKx-3tGq-158" value="COE Lab" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="1210" width="80" height="80" as="geometry" />
+          <mxGeometry x="1051" y="1310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8p-rTUP_P2dbKx-3tGq-160" value="Microsft Lab" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="1270" width="80" height="80" as="geometry" />
+          <mxGeometry x="1430" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p-rTUP_P2dbKx-3tGq-162" value="Computing Lab" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="951" y="1620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8p-rTUP_P2dbKx-3tGq-164" value="Computational Lab" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="659" y="1780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
